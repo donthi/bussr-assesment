@@ -1,0 +1,5 @@
+{
+  "testRegex": "((\\.|/*.)(spec))\\.js?$",
+  "transform": {},
+  "testEnvironment": "node"
+}

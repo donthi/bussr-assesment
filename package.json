@@ -1,0 +1,28 @@
+{
+  "name": "bussr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/boom": "^9.1.2",
+    "@hapi/hapi": "^20.1.1",
+    "@hapi/inert": "^6.0.3",
+    "@hapi/vision": "^6.0.1",
+    "config": "^3.3.6",
+    "hapi-auth-jwt2": "^10.2.0",
+    "hapi-swagger": "^14.1.0",
+    "joi": "^17.4.0",
+    "mongoose": "^5.12.1"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "prettier": "2.2.1"
+  }
+}
